@@ -16,6 +16,7 @@ public class HelloWorld_2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("helloworld_2.HelloWorld_2.main()");
     }
     
 }
